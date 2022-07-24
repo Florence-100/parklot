@@ -1,0 +1,7 @@
+numpy >= 1.19
+tqdm >= 4.50
+geopandas == 0.9
+shapely == 1.7.1
+pytorch >= 1.8.0
+pytorch-lightning == 1.2.10
+pytorch-forecasting == 0.8.5
